@@ -1,0 +1,4 @@
+allow_self_approval = true
+
+[enforcement]
+fail_check = true
