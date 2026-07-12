@@ -8,7 +8,7 @@ built-in CODEOWNERS support.
 
 | File | Purpose |
 | --- | --- |
-| [.codeowners](.codeowners) | Owner rules. Currently every path is owned by `@Ota1022`. |
+| [.codeowners](.codeowners) | Owner rules. Currently every path is owned by `@Ota1022` and `@io2210`. |
 | [codeowners.toml](codeowners.toml) | Action configuration (self-approval, enforcement). |
 | [.github/workflows/codeowners.yml](.github/workflows/codeowners.yml) | Workflow that runs the action on pull requests. |
 
